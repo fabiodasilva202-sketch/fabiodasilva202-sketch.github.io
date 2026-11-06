@@ -1,1 +1,12 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ch.budgetplanerchf.app",
+      "sha256_cert_fingerprints": [
+        "79:17:50:C1:C0:9F:60:FC:B3:94:77:72:26:58:F4:C8:00:AE:4F:B7:A1:A9:5B:73:34:06:11:E6:A8:A6:B5:58"
+      ]
+    }
+  }
+]
